@@ -1,0 +1,5 @@
+PyTorch 的 backward 为什么有一个 grad_variables 参数？
+https://zhuanlan.zhihu.com/p/29923090
+
+Pytorch autograd,backward详解
+https://zhuanlan.zhihu.com/p/83172023
